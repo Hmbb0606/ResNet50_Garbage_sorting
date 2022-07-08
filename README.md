@@ -1,2 +1,1 @@
-# ResNet50_Garbage_sorting
-基于ResNet50的迁移学习对华为垃圾数据集的分类系统
+test
